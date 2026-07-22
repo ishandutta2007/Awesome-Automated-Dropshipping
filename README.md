@@ -32,24 +32,23 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### 🏢 Core Platforms (Automated Dropshipping)
 
-| Product Name | Description | Year First Used | Paper Link | Pricing | Free Tier Limits |
-|---|---|---|---|---|---|
-| [AutoDS](https://www.autods.com/) | All-in-one dropshipping automation tool with product finder, order processing, and supplier integration. [Details](AutoDS.md) | N/A | N/A | Varies | N/A |
-| [DSers](https://www.dsers.com/) | Official AliExpress dropshipping partner with automated order fulfillment. [Details](DSers.md) | N/A | N/A | Varies | N/A |
-| [Zendrop](https://zendrop.com/) | Modern dropshipping platform with fast shipping and product automation. [Details](Zendrop.md) | N/A | N/A | Varies | N/A |
-| [CJ Dropshipping](https://cjdropshipping.com/) | Global dropshipping supplier with warehousing and automated fulfillment. [Details](CJ_Dropshipping.md) | N/A | N/A | Varies | N/A |
-| [Spocket](https://www.spocket.co/) | Dropshipping platform focused on US/EU suppliers with fast shipping. [Details](Spocket.md) | N/A | N/A | Varies | N/A |
-| [Sellvia](https://sellvia.com/) | Dropshipping solution with branded products and automated processing. [Details](Sellvia.md) | N/A | N/A | Varies | N/A |
-| [Eprolo](https://www.eprolo.com/) | Dropshipping platform with print-on-demand and automation features. [Details](Eprolo.md) | N/A | N/A | Varies | N/A |
-| [AppScenic](https://appscenic.com/) | AI-powered dropshipping automation and supplier management. [Details](AppScenic.md) | N/A | N/A | Varies | N/A |
-| [DropCommerce](https://www.dropcommerce.com/) | Curated product catalog with automated dropshipping tools. [Details](DropCommerce.md) | N/A | N/A | Varies | N/A |
-| [Inventory Source](https://www.inventorysource.com/) | Dropshipping automation and inventory synchronization platform. [Details](Inventory_Source.md) | N/A | N/A | Varies | N/A |
-| [Dropified](https://dropified.com/) | Automated dropshipping tool with supplier integration and order processing. [Details](Dropified.md) | N/A | N/A | Varies | N/A |
-| [Wholesale2B](https://www.wholesale2b.com/) | Dropshipping platform with extensive supplier network and automation. [Details](Wholesale2B.md) | N/A | N/A | Varies | N/A |
-| [AliDropship](https://alidropship.com/) | WooCommerce-based dropshipping solution with automation plugins. [Details](AliDropship.md) | N/A | N/A | Varies | N/A |
-| [Syncee](https://syncee.co/) | Product feed management and dropshipping automation platform. [Details](Syncee.md) | N/A | N/A | Varies | N/A |
-| [Yakkyofy](https://www.yakkyofy.com/) | Dropshipping automation tool with global suppliers and order fulfillment. [Details](Yakkyofy.md) | N/A | N/A | Varies | N/A |
-
+| Product Name | Description | Year First Used | Paper Link | Pricing | Free Tier Limits | Company Size |
+|---|---|---|---|---|---|---|
+| [CJ Dropshipping](https://cjdropshipping.com/) | Global dropshipping supplier with warehousing and automated fulfillment. [Details](CJ_Dropshipping.md) | N/A | N/A | Free (pay per product) | Unlimited | $200M+ |
+| [DSers](https://www.dsers.com/) | Official AliExpress dropshipping partner with automated order fulfillment. [Details](DSers.md) | N/A | N/A | Free / Starts at $19.90/mo | 3,000 products, 3 stores | $100M+ |
+| [AutoDS](https://www.autods.com/) | All-in-one dropshipping automation tool with product finder, order processing, and supplier integration. [Details](AutoDS.md) | N/A | N/A | Starts at $9.90/mo | None | $50M+ |
+| [Zendrop](https://zendrop.com/) | Modern dropshipping platform with fast shipping and product automation. [Details](Zendrop.md) | N/A | N/A | Free / Starts at $49/mo | 50 orders/mo | $30M+ |
+| [Spocket](https://www.spocket.co/) | Dropshipping platform focused on US/EU suppliers with fast shipping. [Details](Spocket.md) | N/A | N/A | Free / Starts at $39.99/mo | Browse products only | $20M+ |
+| [AliDropship](https://alidropship.com/) | WooCommerce-based dropshipping solution with automation plugins. [Details](AliDropship.md) | N/A | N/A | $89 one-time fee | None | $15M+ |
+| [Inventory Source](https://www.inventorysource.com/) | Dropshipping automation and inventory synchronization platform. [Details](Inventory_Source.md) | N/A | N/A | Free / Starts at $99/mo | Directory access only | $10M+ |
+| [Dropified](https://dropified.com/) | Automated dropshipping tool with supplier integration and order processing. [Details](Dropified.md) | N/A | N/A | Starts at $17/mo | None (14-day trial) | $10M+ |
+| [Sellvia](https://sellvia.com/) | Dropshipping solution with branded products and automated processing. [Details](Sellvia.md) | N/A | N/A | Starts at $39/mo | None (14-day trial) | $5M+ |
+| [Eprolo](https://www.eprolo.com/) | Dropshipping platform with print-on-demand and automation features. [Details](Eprolo.md) | N/A | N/A | Free (pay per product) | Unlimited | $5M+ |
+| [Syncee](https://syncee.co/) | Product feed management and dropshipping automation platform. [Details](Syncee.md) | N/A | N/A | Free / Starts at $29/mo | 25 products | $3M+ |
+| [AppScenic](https://appscenic.com/) | AI-powered dropshipping automation and supplier management. [Details](AppScenic.md) | N/A | N/A | Free / Starts at $24/mo | Browse products only | $2M+ |
+| [Wholesale2B](https://www.wholesale2b.com/) | Dropshipping platform with extensive supplier network and automation. [Details](Wholesale2B.md) | N/A | N/A | Free / Starts at $37.99/mo | Browse directory only | $2M+ |
+| [DropCommerce](https://www.dropcommerce.com/) | Curated product catalog with automated dropshipping tools. [Details](DropCommerce.md) | N/A | N/A | Starts at $19/mo | None (14-day trial) | $1M+ |
+| [Yakkyofy](https://www.yakkyofy.com/) | Dropshipping automation tool with global suppliers and order fulfillment. [Details](Yakkyofy.md) | N/A | N/A | Free (pay per product) | Unlimited | $1M+ |
 
 ## 💻 Open-Source GitHub Projects
 
