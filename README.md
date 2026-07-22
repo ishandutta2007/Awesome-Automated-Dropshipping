@@ -22,7 +22,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## 📑 Table of Contents
+## 📑 Table of Contents 📌
 - [SaaS Products](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
@@ -94,7 +94,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom platforms**: Combine **MedusaJS**, **Saleor**, **WooCommerce**, and **n8n** with **Ollama** to create fully open, AI-powered automated dropshipping systems.
 
-## 🤝 How to Contribute
+## 🤝 How to Contribute 💡
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
@@ -103,7 +103,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## ⚠️ Disclaimer
+## ⚠️ Disclaimer 🛑
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Dropshipping businesses must comply with supplier terms, tax laws, and consumer protection regulations.
