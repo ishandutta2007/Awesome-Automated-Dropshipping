@@ -54,40 +54,40 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### 🛠️ Dedicated Dropshipping & Ecommerce Automation Tools
 
-- **[MedusaJS](https://github.com/medusajs/medusa)**  
-  Open-source headless commerce engine ideal for building custom automated dropshipping stores.
-
-- **[Saleor](https://github.com/saleor/saleor)**  
-  Open-source headless ecommerce platform with strong API support for dropshipping integrations.
-
-- **[WooCommerce](https://github.com/woocommerce/woocommerce)**  
-  Most popular open-source ecommerce solution with extensive dropshipping plugins and automation.
-
-- **[n8n](https://github.com/n8n-io/n8n)**  
+- **[n8n](https://github.com/n8n-io/n8n)** [![Stars](https://img.shields.io/badge/stars-35000-white?style=social)](https://github.com/n8n-io/n8n/stargazers)  
   Open-source workflow automation tool with nodes for supplier APIs, order processing, and dropshipping pipelines.
 
-- **[Huginn](https://github.com/huginn/huginn)**  
-  Open-source automation agent for monitoring suppliers, syncing inventory, and processing orders.
-
-- **[Bagisto](https://github.com/bagisto/bagisto)**  
-  Laravel-based open-source ecommerce platform with multi-vendor and dropshipping potential.
-
-- **[Vendure](https://github.com/vendure-ecommerce/vendure)**  
-  TypeScript headless commerce framework suitable for custom dropshipping solutions.
-
-- **[Spree Commerce](https://github.com/spree/spree)**  
-  Open-source ecommerce framework with API-first architecture for automation.
-
-- **[Odoo](https://github.com/odoo/odoo)**  
+- **[Odoo](https://github.com/odoo/odoo)** [![Stars](https://img.shields.io/badge/stars-33000-white?style=social)](https://github.com/odoo/odoo/stargazers)  
   Full open-source ERP with inventory, sales, and dropshipping management modules.
 
-- **[ERPNext](https://github.com/frappe/erpnext)**  
+- **[MedusaJS](https://github.com/medusajs/medusa)** [![Stars](https://img.shields.io/badge/stars-24000-white?style=social)](https://github.com/medusajs/medusa/stargazers)  
+  Open-source headless commerce engine ideal for building custom automated dropshipping stores.
+
+- **[Saleor](https://github.com/saleor/saleor)** [![Stars](https://img.shields.io/badge/stars-20000-white?style=social)](https://github.com/saleor/saleor/stargazers)  
+  Open-source headless ecommerce platform with strong API support for dropshipping integrations.
+
+- **[ERPNext](https://github.com/frappe/erpnext)** [![Stars](https://img.shields.io/badge/stars-16000-white?style=social)](https://github.com/frappe/erpnext/stargazers)  
   Open-source ERP with strong inventory synchronization and order automation features.
+
+- **[Spree Commerce](https://github.com/spree/spree)** [![Stars](https://img.shields.io/badge/stars-12000-white?style=social)](https://github.com/spree/spree/stargazers)  
+  Open-source ecommerce framework with API-first architecture for automation.
+
+- **[WooCommerce](https://github.com/woocommerce/woocommerce)** [![Stars](https://img.shields.io/badge/stars-9000-white?style=social)](https://github.com/woocommerce/woocommerce/stargazers)  
+  Most popular open-source ecommerce solution with extensive dropshipping plugins and automation.
+
+- **[Bagisto](https://github.com/bagisto/bagisto)** [![Stars](https://img.shields.io/badge/stars-6000-white?style=social)](https://github.com/bagisto/bagisto/stargazers)  
+  Laravel-based open-source ecommerce platform with multi-vendor and dropshipping potential.
+
+- **[Vendure](https://github.com/vendure-ecommerce/vendure)** [![Stars](https://img.shields.io/badge/stars-4000-white?style=social)](https://github.com/vendure-ecommerce/vendure/stargazers)  
+  TypeScript headless commerce framework suitable for custom dropshipping solutions.
+
+- **[Huginn](https://github.com/huginn/huginn)** [![Stars](https://img.shields.io/badge/stars-3900-white?style=social)](https://github.com/huginn/huginn/stargazers)  
+  Open-source automation agent for monitoring suppliers, syncing inventory, and processing orders.
 
 ### ➕ Additional Strong Open-Source Options
 
-- **[Sylius](https://github.com/Sylius/Sylius)** — Symfony-based flexible ecommerce framework.
-- **[PrestaShop](https://github.com/PrestaShop/PrestaShop)** — Full-featured open-source ecommerce with dropshipping modules.
+- **[Sylius](https://github.com/Sylius/Sylius)** [![Stars](https://img.shields.io/badge/stars-7500-white?style=social)](https://github.com/Sylius/Sylius/stargazers) — Symfony-based flexible ecommerce framework.
+- **[PrestaShop](https://github.com/PrestaShop/PrestaShop)** [![Stars](https://img.shields.io/badge/stars-7000-white?style=social)](https://github.com/PrestaShop/PrestaShop/stargazers) — Full-featured open-source ecommerce with dropshipping modules.
 - **[LangGraph Dropshipping Agents** for autonomous order and inventory management.
 - **[Scrapy + Supplier API** pipelines for automated product importing.
 - **[Many community WooCommerce + Automation** scripts and plugins.
