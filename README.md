@@ -14,7 +14,7 @@
 *Focused on Automated Dropshipping, Inventory Sync & Order Fulfillment*  
 **Last updated: March 2026**
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Automated Dropshipping Platforms**. These tools automate product importing, inventory synchronization, order fulfillment, supplier integration, and store management for dropshipping businesses.
+This repository tracks notable **SaaS platforms** and **open-source projects** for **Automated Dropshipping Platforms**, e-commerce automation, Shopify alternatives, WooCommerce dropshipping, and global supplier networks.  These tools automate product importing, inventory synchronization, order fulfillment, supplier integration, and store management for dropshipping businesses.
 
 **Examples** include AutoDS, DSers, Zendrop, CJ Dropshipping, Spocket, Sellvia, Eprolo, AppScenic, DropCommerce, Inventory Source, Dropified, Wholesale2B, AliDropship, Syncee, and Yakkyofy (the category leaders). Tools listed here emphasize **automation**, supplier networks, real-time sync, and multi-store support.
 
